@@ -24,6 +24,7 @@ const nextConfig: NextConfig = {
         { source: "/", destination: "/inicio.html" },
         { source: "/cotizador", destination: "/cotizador/Cotizador.html" },
         { source: "/cotizador/", destination: "/cotizador/Cotizador.html" },
+        { source: "/privacidad", destination: "/privacidad.html" },
       ],
       afterFiles: [],
       fallback: [],
